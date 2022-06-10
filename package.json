@@ -1,0 +1,27 @@
+{
+  "name": "PassGen",
+  "version": "0.1",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "Password",
+    "Secure",
+    "Generation",
+    "Encryption"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  },
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "copy-to-clipboard": "^3.3.1",
+    "crypto-js": "^4.1.1"
+  }
+}
