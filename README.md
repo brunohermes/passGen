@@ -1,4 +1,4 @@
-# :key: passGen
+# :key: ![alt text](https://github.com/brunohermes/passGen/blob/main/resources/logo.png)
 ## Secure Password Generation Tool
 
 PassGen is a password "encryption" tool, which hashes the user input, into a SHA-256 Hash.
